@@ -1,0 +1,16 @@
+channels:
+- conda-forge/label/siesta_rc
+- conda-forge
+dependencies:
+- python
+- pyparsing
+- sisl>=0.14.3
+- pathos
+- netCDF4
+- jupyter
+- plotly
+- scikit-image
+- matplotlib
+- pyamg
+- siesta>=4.1.5
+- tqdm
